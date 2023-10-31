@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(185, 188, 189);
+    font-size: 200px;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    
+}
+hr {
+    background: #000000;
+    height: 10px;
+    width: 100%;
+    position: relative;
+    border: 0;
+}
+.awin{
+    color: rgb(55, 255, 0);
+    position: absolute;
+    font-size: 100px;
+    top: 100px;
+    right: 230px;
+    text-shadow: 1px 1px 70px rgb(55, 255, 0);
+}
+.bwin{
+    color: rgb(55, 255, 0);
+    position: absolute;
+    font-size: 100px;
+    bottom: 150px;
+    right: 230px;
+    text-shadow: 1px 1px 100px rgb(55, 255, 0);
+}
+.blose{
+    color: rgb(255, 0, 0);
+    position: absolute;
+    font-size: 100px;
+    bottom: 150px;
+    right: 200px;
+    text-shadow: 1px 1px 100px rgb(255, 0, 0);
+}
+.alose{
+    color: rgb(255, 0, 0);
+    position: absolute;
+    font-size: 100px;
+    top: 100px;
+    right: 200px;
+    text-shadow: 1px 1px 100px rgb(255, 0, 0);
+}
+.drawA{
+    color: rgb(246, 255, 0);
+    position: absolute;
+    font-size: 100px;
+    top: 100px;
+    right: 170px;
+    text-shadow: 1px 1px 100px rgb(233, 250, 0);
+}
+.drawB{
+    color: rgb(246, 255, 0);
+    position: absolute;
+    font-size: 100px;
+    bottom: 150px;
+    right: 170px;
+    text-shadow: 1px 1px 100px rgb(233, 250, 0);
+}
+.KlickStyle{
+    position: absolute;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    top: 0px;
+    right: 100px;
+
+  }
